@@ -1,29 +1,44 @@
 {
-	"Students":
-	[
+	"Students": [
 		{
-			"id":"CS20B1075",
-			"Name":"Chekka Jitin Krishna"
+			"id": "CS20B1075",
+			"Name": "Chekka Jitin Krishna",
+			"floor": "1"
 		},
 		{
-			"id":"CS20B1129",
-			"Name":"Vishnu Abhay Paravitkar"
+			"id": "CS20B1129",
+			"Name": "Vishnu Abhay Paravitkar",
+			"floor": "1"
 		},
 		{
-			"id":"CS20B1036",
-			"Name":"Tupli Gowtam Reddy"
+			"id": "CS20B1036",
+			"Name": "Tupli Gowtam Reddy",
+			"floor": "0"
 		},
 		{
-			"id":"CS20B1007",
-			"Name":"Pedisetty Jashwanth"
+			"id": "CS20B1007",
+			"Name": "Pedisetty Jashwanth",
+			"floor": "2"
 		},
 		{
-			"id":"CS20B1091",
-			"Name":"Bandigari Mahidhar Reddy"
+			"id": "CS20B1091",
+			"Name": "Bandigari Mahidhar Reddy",
+			"floor": "2"
 		},
 		{
-			"id":"CS20B1125",
-			"Name":"Anirudh Satish"
+			"id": "CS20B1125",
+			"Name": "Anirudh Satish",
+			"floor": "3"
+		},
+		{
+			"id": "CS20B1069",
+			"Name": "Dacharla Venkata Abhiram",
+			"floor": "3"
+		},
+		{
+			"id": "CS20B1058",
+			"name": "V Sai Saketh Reddy",
+			"floor": "1"
 		}
 	]
 }
