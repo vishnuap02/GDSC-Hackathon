@@ -30,10 +30,13 @@ app.use(methodOverride('_method'));
 
 
 
-
+app.get('/',(req, res) => {
+    res.render('homePage');
+})
 
 app.all('*', (req,res,next) => {
-    next(new ExpressError('Page Not Found', 404))
+    // next(new ExpressError('Page Not Found', 404));
+    res.send(`Page not found`);
 })
 
 // Test commit
