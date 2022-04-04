@@ -1,0 +1,29 @@
+{
+	"Students":
+	[
+		{
+			"id":"CS20B1075",
+			"Name":"Chekka Jitin Krishna"
+		},
+		{
+			"id":"CS20B1129",
+			"Name":"Vishnu Abhay Paravitkar"
+		},
+		{
+			"id":"CS20B1036",
+			"Name":"Tupli Gowtam Reddy"
+		},
+		{
+			"id":"CS20B1007",
+			"Name":"Pedisetty Jashwanth"
+		},
+		{
+			"id":"CS20B1091",
+			"Name":"Bandigari Mahidhar Reddy"
+		},
+		{
+			"id":"CS20B1125",
+			"Name":"Anirudh Satish"
+		}
+	]
+}
